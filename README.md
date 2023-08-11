@@ -12,5 +12,6 @@ _- niñita_
 - Trucos muy locos del profesor
 - Las personalidades mútiples de Freddy
 - Creado por el increible Platzi Team
+- Incluye ejemplos en Windows,Linux y Mac
 
 Y como un amable recordatorio **Este readme.md es un chiste**. Diseñado para el ejemplo. si no llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](http://https://platzi.com/cursos/git-github/)
